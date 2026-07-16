@@ -1,1 +1,4 @@
-
+RESEARCH QUESTION - Can fairness-aware preprocessing techniques reduce gender bias in clinical machine learning models while maintaining predictive performance?
+HYPOTHESIS:
+Fairness-aware preprocessing methods such as oversampling and sample reweighting will reduce gender disparities in clinical prediction models without causing 
+a significant decrease in overall model performance.
